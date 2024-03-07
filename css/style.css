@@ -46,6 +46,11 @@ body {
 /* Content */
 .content {
     flex: 3;
+    
+}
+
+div {
+    border: 1px solid black;
 }
 
 .content-column {

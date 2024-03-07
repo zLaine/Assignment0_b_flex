@@ -4,13 +4,13 @@ This is a project to help you understand how to use nested flex box containers.
 
 It looks like this when you run it.
 
-![Image description](/images/result.png)
+<img src="images/result.png">
 
 ## Assignment
 
 Add borders of your own choosing to make the nested flex containers stand out in your own mind, maybe something like this?
 
-![Image description](/images/borders.png)
+![Image description](images/borders.png)
 
 ## How to consume this project?
 
